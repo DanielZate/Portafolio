@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.ee1a63c1.chunk.css",
-    "main.js": "/Portafolio/static/js/main.cb945b98.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.cb945b98.chunk.js.map",
-    "runtime-main.js": "/Portafolio/static/js/runtime-main.684d4ebe.js",
-    "runtime-main.js.map": "/Portafolio/static/js/runtime-main.684d4ebe.js.map",
-    "static/js/2.0dc20cf3.chunk.js": "/Portafolio/static/js/2.0dc20cf3.chunk.js",
-    "static/js/2.0dc20cf3.chunk.js.map": "/Portafolio/static/js/2.0dc20cf3.chunk.js.map",
-    "static/js/3.8aaf1b8b.chunk.js": "/Portafolio/static/js/3.8aaf1b8b.chunk.js",
-    "static/js/3.8aaf1b8b.chunk.js.map": "/Portafolio/static/js/3.8aaf1b8b.chunk.js.map",
-    "index.html": "/Portafolio/index.html",
-    "static/css/main.ee1a63c1.chunk.css.map": "/Portafolio/static/css/main.ee1a63c1.chunk.css.map",
-    "static/js/2.0dc20cf3.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.0dc20cf3.chunk.js.LICENSE.txt",
-    "static/media/FotoSena030.4d7540e9.jpg": "/Portafolio/static/media/FotoSena030.4d7540e9.jpg",
-    "static/media/mensaje.13b27766.jpg": "/Portafolio/static/media/mensaje.13b27766.jpg"
+    "main.css": "/Inicio/static/css/main.ee1a63c1.chunk.css",
+    "main.js": "/Inicio/static/js/main.2feed8d9.chunk.js",
+    "main.js.map": "/Inicio/static/js/main.2feed8d9.chunk.js.map",
+    "runtime-main.js": "/Inicio/static/js/runtime-main.808b69cd.js",
+    "runtime-main.js.map": "/Inicio/static/js/runtime-main.808b69cd.js.map",
+    "static/js/2.0dc20cf3.chunk.js": "/Inicio/static/js/2.0dc20cf3.chunk.js",
+    "static/js/2.0dc20cf3.chunk.js.map": "/Inicio/static/js/2.0dc20cf3.chunk.js.map",
+    "static/js/3.8aaf1b8b.chunk.js": "/Inicio/static/js/3.8aaf1b8b.chunk.js",
+    "static/js/3.8aaf1b8b.chunk.js.map": "/Inicio/static/js/3.8aaf1b8b.chunk.js.map",
+    "index.html": "/Inicio/index.html",
+    "static/css/main.ee1a63c1.chunk.css.map": "/Inicio/static/css/main.ee1a63c1.chunk.css.map",
+    "static/js/2.0dc20cf3.chunk.js.LICENSE.txt": "/Inicio/static/js/2.0dc20cf3.chunk.js.LICENSE.txt",
+    "static/media/FotoSena030.4d7540e9.jpg": "/Inicio/static/media/FotoSena030.4d7540e9.jpg",
+    "static/media/mensaje.13b27766.jpg": "/Inicio/static/media/mensaje.13b27766.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.684d4ebe.js",
+    "static/js/runtime-main.808b69cd.js",
     "static/js/2.0dc20cf3.chunk.js",
     "static/css/main.ee1a63c1.chunk.css",
-    "static/js/main.cb945b98.chunk.js"
+    "static/js/main.2feed8d9.chunk.js"
   ]
 }
