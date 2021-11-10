@@ -21,7 +21,7 @@ function App() {
   <div className="general">
     <Router>
       <Switch>
-      <Route exact path="/Inicio">
+      <Route exact path="/Portafolio">
       <Header/>
    <Textos/>    
     <SobreMi/>

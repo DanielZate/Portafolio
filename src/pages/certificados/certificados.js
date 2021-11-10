@@ -9,7 +9,7 @@ import {
 function certificados() {
     return (
 <div>
-<Link to="/Inicio">  <button className="button1" > Volver </button></Link>
+<Link to="/Portafolio">  <button className="button1" > Volver </button></Link>
 
 <center><h2>CERTIFICADOS</h2>
         <img src={A} class="img3"/></center>
