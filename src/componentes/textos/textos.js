@@ -27,7 +27,7 @@ function Textos(){
         <p></p>
 
         <p><Link to="/certificados">Certificados</Link></p>
-        <p><Link to="/Inicio">Inico</Link></p>
+
 
         <br/>
         <center><h2>IDIOMAS</h2>
