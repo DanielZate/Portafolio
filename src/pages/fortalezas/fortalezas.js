@@ -7,7 +7,7 @@ import {
 function fortalezas() {
     return (
 <div>
-<Link to="/">  <button className="button1" > Volver </button></Link>
+<Link to="/Inicio">  <button className="button1" > Volver </button></Link>
 <br/>
 <center><h2>FORTALEZAS / DEBILIDADES</h2>
         <img src={A} class="img3"/></center>

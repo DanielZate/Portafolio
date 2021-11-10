@@ -6,6 +6,8 @@ import Textos from './componentes/textos/textos';
 import Forlazas from './pages/fortalezas/fortalezas';
 import Error from './pages/error404/error404';
 import Certicado from './pages/certificados/certificados';
+
+
  
 import {
   BrowserRouter as Router,
@@ -19,15 +21,14 @@ function App() {
   <div className="general">
     <Router>
       <Switch>
-      <Route exact path="/">
+      <Route exact path="/Inicio">
       <Header/>
    <Textos/>    
     <SobreMi/>
         </Route>
         <Route path="/fortaleza">
             <Forlazas/>
-        </Route>
-
+        </Route>   
         <Route path="/certificados">
             <Certicado/>
         </Route>
